@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="signup">SignUp</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="enter_email">Enter Your Email</string>
+    <string name="enter_phone">Enter Your Phone Number</string>
+    <string name="enter_password">Enter Your Password</string>
+    <string name="reenter_password">Re-Enter Your Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Dont have an Account?</string>
+    <string name="existing">Already have an account?</string>
+    <string name="amount">Enter Amount</string>
+    <string name="convert">Convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="previous_conversions">View Previous Conversions?</string>
+    <string name="history">History</string>
+    <string name="from_currency">From Currency : </string>
+    <string name="result">"Result : "</string>
+    <string name="your_amount">"Amount : "</string>
+    <string name="to_currency">"To Currency : "</string>
+    <string name="name">Name</string>
+    <string name="email">"Email : "</string>
+    <string name="phone">"Phone : "</string>
+    <string name="profile">Profile</string>
+    <string name="view_profile">View Your Profile</string>
+    <string name="update_data">Update Data</string>
+    <string name="logout">Logout</string>
+    <string name="delete">Delete</string>
+</resources>
